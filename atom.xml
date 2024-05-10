@@ -2,26 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iChains-Cloud.github.io.git</id>
     <title>舒卷故事之窗</title>
-    <subtitle>My heart sleeps in the emerald dream</subtitle>
-    <icon>https://ichains-cloud.github.io.git/images/favicon.ico</icon>
     <link href="https://iChains-Cloud.github.io.git" />
-    <author>
-      <name>IchainsCloud</name>
-    </author>
     <updated>2024-05-10T02:42:15.066Z</updated>
-    <category term="studynotes，c++，life，contest，Embeddedsystem" />
     <entry>
         <id>https://ichains-cloud.github.io.git/2024/05/10/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</id>
         <title>Brief Of Introduction</title>
         <link rel="alternate" href="https://ichains-cloud.github.io.git/2024/05/10/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/"/>
         <content type="html">&lt;p&gt;欢迎来到倪锦怡的创客空间！&lt;/p&gt;
 &lt;h2 id=&#34;个人简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人简介&#34;&gt;#&lt;/a&gt; 个人简介&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/Footprints3.jpg&#34; alt&gt;&lt;/p&gt;
 &lt;p&gt;倪锦怡：显露端倪的倪，锦瑟年华的锦，怡颜悦色的怡。&lt;br&gt;
 性别：男&lt;br&gt;
 出生日期：2004 年 8 月 11 日&lt;br&gt;
 籍贯：浙江台州&lt;br&gt;
 星座：狮子座&lt;/p&gt;
-&lt;p&gt;！&lt;a href=&#34;Footprints3.jpg&#34;&gt;图片&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;性格&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#性格&#34;&gt;#&lt;/a&gt; 性格&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;i型人格，本人腼腆沉静独立，喜欢在安静的环境下发挥自己的思维能力。适应性强，自信乐观，友好随和，喜欢分享，喜欢陪伴。
 有自己独特的小众爱好，穿衣有自己独特的风格，不会随意模仿他人，喜欢与众不同的感觉。
