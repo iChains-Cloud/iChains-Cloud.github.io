@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://iChains-Cloud.github.io.git</id>
+    <title>舒卷故事之窗</title>
+    <subtitle>My heart sleeps in the emerald dream</subtitle>
+    <icon>https://ichains-cloud.github.io.git/images/favicon.ico</icon>
+    <link href="https://iChains-Cloud.github.io.git" />
+    <author>
+      <name>IchainsCloud</name>
+    </author>
+    <updated>2024-05-10T02:42:15.066Z</updated>
+    <category term="studynotes，c++，life，contest，Embeddedsystem" />
+    <entry>
+        <id>https://ichains-cloud.github.io.git/2024/05/10/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</id>
+        <title>Brief Of Introduction</title>
+        <link rel="alternate" href="https://ichains-cloud.github.io.git/2024/05/10/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/"/>
+        <content type="html">&lt;p&gt;欢迎来到倪锦怡的创客空间！&lt;/p&gt;
+&lt;h2 id=&#34;个人简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人简介&#34;&gt;#&lt;/a&gt; 个人简介&lt;/h2&gt;
+&lt;p&gt;倪锦怡：显露端倪的倪，锦瑟年华的锦，怡颜悦色的怡。&lt;br&gt;
+性别：男&lt;br&gt;
+出生日期：2004 年 8 月 11 日&lt;br&gt;
+籍贯：浙江台州&lt;br&gt;
+星座：狮子座&lt;/p&gt;
+&lt;p&gt;！&lt;a href=&#34;Footprints3.jpg&#34;&gt;图片&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;性格&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#性格&#34;&gt;#&lt;/a&gt; 性格&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;i型人格，本人腼腆沉静独立，喜欢在安静的环境下发挥自己的思维能力。适应性强，自信乐观，友好随和，喜欢分享，喜欢陪伴。
+有自己独特的小众爱好，穿衣有自己独特的风格，不会随意模仿他人，喜欢与众不同的感觉。
+性格好，不发脾气，做事耐心，善于倾听，善于安慰他人，本人支持正能量，身边朋友三观都很正。诚实守信，懂得包容和体贴。和好朋友关系很好，友谊长存。能够和大部分性格的人相处。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;特长&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特长&#34;&gt;#&lt;/a&gt; 特长&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;喜欢玩滑板，想挑战各种高难度的豚跳，受过小伤，但是依旧享受冒险挑战的过程。喜欢音乐，心情复杂时会和朋友们去KTV，喜欢弹琴但是不是很熟练。剧本杀密室爱好者，喜欢冒险刺激烧脑解谜，喜欢破局的感觉。球类运动：乒乓球，羽毛球，网球，台球，篮球… …喜欢追番看电影，追求丰富的精神世界。喜欢旅游，喜欢享受与大自然亲近的过程 ，平时也喜欢抓拍景色，收集纪念卡片。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$   欢迎一起旅游&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;专业物联网工程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#专业物联网工程&#34;&gt;#&lt;/a&gt; 专业：物联网工程&lt;/h3&gt;
+&lt;p&gt;学习物联网工程绝非是偶然的，和光同尘，与时舒卷，在这个万物互联的时代，物联网已经成了时代之需，发展之潮。全面建成社会主义现代化强国，进行智能化地发展，物联网工程将是一门分外重要的学科。探索物联网，学习物联网，发展物联网，将是我未来职业生涯的不可或缺的历程。&lt;br&gt;
+对于一位 I 型人格来讲，本人耐心，灵活，乐观将是职业发展的重要优势，选择物联网工程，或许也是一种机遇。物联网工程的特性就是杂，因此想要找到适合自己的突破口，必然少不了规划与探究。因此在职业生涯中，长远的目光和反复的尝试将会是前期的任务重心。物联网工程包含着各种各样的技术，其中软件和硬件的学习和选择都将是未来的挑战&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$  欢迎专业探讨&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+</content>
+        <updated>2024-05-10T02:42:15.066Z</updated>
+    </entry>
+    <entry>
+        <id>https://ichains-cloud.github.io.git/2024/04/26/%E7%94%9F%E6%B4%BB%E8%84%9A%E5%8D%B0/%E7%94%9F%E6%B4%BB%E8%84%9A%E5%8D%B0/</id>
+        <title>生活脚印</title>
+        <link rel="alternate" href="https://ichains-cloud.github.io.git/2024/04/26/%E7%94%9F%E6%B4%BB%E8%84%9A%E5%8D%B0/%E7%94%9F%E6%B4%BB%E8%84%9A%E5%8D%B0/"/>
+        <content type="html"></content>
+        <updated>2024-04-26T10:49:10.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://ichains-cloud.github.io.git/2024/04/26/%E5%A3%B0%E9%9F%B3%E5%AE%9A%E4%BD%8D%E6%99%BA%E8%83%BD%E8%BD%A6/%E5%A3%B0%E9%9F%B3%E5%AE%9A%E4%BD%8D%E6%99%BA%E8%83%BD%E8%BD%A6/</id>
+        <title>声音定位智能车</title>
+        <link rel="alternate" href="https://ichains-cloud.github.io.git/2024/04/26/%E5%A3%B0%E9%9F%B3%E5%AE%9A%E4%BD%8D%E6%99%BA%E8%83%BD%E8%BD%A6/%E5%A3%B0%E9%9F%B3%E5%AE%9A%E4%BD%8D%E6%99%BA%E8%83%BD%E8%BD%A6/"/>
+        <content type="html">&lt;h2 id=&#34;摘要&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#摘要&#34;&gt;#&lt;/a&gt; 摘要&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This paper designs and makes an intelligent car with sound location function based on silicon wheat module and small program. The car uses tc377 control chip as the core cpu1 to control the overall function. STM32F103 chip is used as cpu2 to control environment detection and cloud transmission functions. Based on the silicon wheat sound detection algorithm, the vehicle can accurately measure and realize the sound path autonomous navigation. The smart car also comes with an environmental monitoring function to detect real-time data upload to the cloud. The intelligent car designed in this paper allows people to free their hands. By monitoring the sound orientation, the car can realize actions such as forward, backward or turn, and at the same time upload the real-time detected ambient temperature and humidity to the small program.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;关键词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关键词&#34;&gt;#&lt;/a&gt; 关键词&lt;/h3&gt;
+&lt;p&gt;tc377 控制芯片；硅麦实现声音定位；监测数据实时上传云端；小程序实行远程控制&lt;/p&gt;
+&lt;h3 id=&#34;引言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h3&gt;
+&lt;p&gt;随着科学技术的飞速发展，智能产品的出现使得我们的生活更加方便。其中人工智能无疑是该领域内的最重要的一个发展方向，无论在军事领域还是民用领域都有着广泛的应用前景。本文研究的智能声音寻迹小车也可以认为是人工智能设计中的一种应用类型，能通过硅麦模块准确测量并实现声音路径自主导航，同时进行环境监测实时上传到云端。&lt;/p&gt;
+&lt;h3 id=&#34;总体设计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总体设计&#34;&gt;#&lt;/a&gt; 总体设计&lt;/h3&gt;
+&lt;p&gt;基于硅麦模块和小程序搭建的声音检测小车主要组成部分为：主板模块、tc377 控制芯片模块、硅麦模块、STM32F103 芯片模块、驱动板模块、ISP 并口屏、ESP8266、DHT11、BH1750、USB 转 TTL&lt;/p&gt;
+&lt;h3 id=&#34;第二章-工作原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章-工作原理&#34;&gt;#&lt;/a&gt; 第二章 工作原理&lt;/h3&gt;
+&lt;p&gt;在介绍声音循迹原理之前，我们先介绍我们人耳辨声的原理，在日常生活中，我们能够利用单耳或双耳来得到声源来自的大致方向和位置，在单耳定位中，因为我们的耳廓具有较为” 崎岖 “的不规则的形状，其各部位会对声波进行一定的反射，反射后的声波被耳道接收后与直达声波有一定的相位差，所以反射波和直达波会在耳道处发生干涉，会产生特殊的听觉效果。而在双耳定位中，我们左耳和右耳接收到的信号会有时间差 ITD 和声级差 ILD，根据 ITD 和 ILD 的差值，我们可以在估计声音方向，并且再结合耳廓效应，头部隐蔽以及我们自主的转头等，我们可以得到更精准的定位，&lt;/p&gt;
+&lt;h4 id=&#34;麦克风定位原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#麦克风定位原理&#34;&gt;#&lt;/a&gt; 麦克风定位原理&lt;/h4&gt;
+&lt;p&gt;当声波从 45 度方向到达阵列时，信号最先到达左边的麦克风，最晚到达右边的麦克风；&lt;br&gt;
+当声波以 90 度垂直入射阵列时，信号同时到达两个麦克风；&lt;br&gt;
+当声波从 135 度方向到达阵列时，信号最先到达右边的麦克风，最晚到达左边的麦克风。&lt;/p&gt;
+&lt;p&gt;我们采用的硅麦模块信号是 IM68A30A, 电源电压为 3.3v, 放大倍数约为 101 倍，为了使单片机能采集完整的声音信号，因此硅麦芯片内部叠加的有偏置电压，叠加偏置电压的效果就是，没有声音的时候输出的电压不是 0v，而是有一定的电压，因此采集到声音数据之后需要减去偏置。&lt;/p&gt;
+&lt;p&gt;当小车电源开启后，四个成十字型排列的硅麦模块通过声音传播的时间差来确定声源点相对于小车的到达方向和距离，其中阵列上的每个阵元接收到的声源信号都存在不同的延时，我们可以通过互相关，广义互相关 (GCC) 或相位差等来估计各个阵列信号之间的时延差。并通过寻找峰值的方法来基本确定声音的方位。该方法的优势在于有较强的环境适应性，能够实现室内室外各环境的声音定位。&lt;/p&gt;
+&lt;p&gt;首先我们要对声音的信号进行归一化处理，将预处理的数据减去平均值，使其被限定在一定的范围内（从而消除奇异样本数据导致的不良影响。) 在 Normal 函数里我们将四个硅麦检测到的数据分别进行归一化处理，方便后续运算.&lt;br&gt;
+(数据的归一化和标准化是特征缩放 (feature scaling) 的方法，是数据预处理的关键步骤。不同评价指标往往具有不同的量纲和量纲单位，这样的情况会影响到数据分析的结果，为了消除指标之间的量纲影响，需要进行数据归一化 / 标准化处理，以解决数据指标之间的可比性。原始数据经过数据归一化 / 标准化处理后，各指标处于同一数量级，适合进行综合对比评价。)&lt;br&gt;
+ CatMicXcorr 进行单组互相关运算，互相关结果 = 麦克风 A 项和麦克风 B 各项乘积之和，从下图中我们可以清晰的看到我们分别对硅麦 A,B, 硅麦 C,D 进行互相关。并计算出最大峰值的位置，基本确定声音的方位。&lt;/p&gt;
+&lt;h4 id=&#34;云端控制原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#云端控制原理&#34;&gt;#&lt;/a&gt; 云端控制原理&lt;/h4&gt;
+&lt;p&gt;MQTT 协议全称是（Message Queuing Telemetry Transport），即消息队列遥测传输协议。是一种基于发布 / 订阅（Publish/Subscribe）模式的轻量级通讯协议，并且该协议构建于 TCP/IP 协议之上，我们知道 TCP 协议本身就具有高可靠性的特点，因此基于其上的 MQTT 协议同样也是具有高可靠、低开销的特点，之所以低开销，是以为 MQTT 协议传输的最小的报文也只有两个字节。&lt;br&gt;
+物联网开发中，MQTT 不是唯一的选择，与 MQTT 互相竞争的协议有 XMPP 和 CoAP 协议等。&lt;br&gt;
+这里我们以大家最熟悉的抖音平台为例：用户二（客户端）发布消息到抖音平台（服务器），由于用户一订阅了用户二的消息（相当于点了关注），所以抖音平台（服务器）就会向用户一推送这个消息 (注意发布和推送的区别)。这就是 MQTT 协议订阅 &amp;amp; 发布的一个简单比喻。&lt;/p&gt;
+&lt;p&gt;实现 MQTT 协议需要客户端和服务器端通讯完成， 在通讯过程中，MQTT 协议中有三种身份：发布者 (Publish)、代理 (Broker)(服务器)、订阅者 (Subscribe)。 其中，消息的发布者和订阅者都是客户端，消息代理是服务器，消息发布者可以同时是订阅者。&lt;/p&gt;
+&lt;p&gt;MQTT 传输的消息分为：主题 (Topic) 和 负载 (payload) 两部分:&lt;br&gt;
+Topic: 可以理解为消息的类型，订阅者订阅 (Subscribe) 后，就会收到该主题的消息内容 (payload)&lt;br&gt;
+ payload: 可以理解为消息的内容，是指订阅者具体要使用的内容&lt;/p&gt;
+&lt;h3 id=&#34;自主导航&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自主导航&#34;&gt;#&lt;/a&gt; 自主导航&lt;/h3&gt;
+&lt;p&gt;自动导航部分采用声音循迹，用开环控制算法进行驱动。开环控制相比较闭环控制的优点是硬件成本低，响应速度快，适合处理高速、快速变化的输入信号。此外，开环控制不需要传感器来测量输出，因此不会受到传感器精度和响应时间的限制。考虑到闭环控制需要传感器来测量输出，因此系统的灵敏度可能会受到传感器精度和响应时间的限制。闭环控制在处理快速变化的输入时可能会出现不稳定的情况，因为系统的响应速度可能无法跟上输入信号的变化。因此我们删除 pid 算法中的积分控制算法，重新编写了由比例控制的驱动算法.&lt;br&gt;
+ 我们的声控小车在硬件这块是没有设计舵机的，主要是通过双驱动轮的速度差实&lt;br&gt;
+现转弯和掉头。当双电机的占空比 PWM 相同时，小车直行.&lt;/p&gt;
+&lt;p&gt;当我们声音检测的角度为 315 度即与车头在一个水平线上时，初始化占空比，小车保持直行. myacor2 为小车是否掉头标志位，当检测的 myacor2 小于 0 时，小车双驱反向，实现迅速掉头.&lt;/p&gt;
+&lt;p&gt;myacor3 为小车转弯标志位，当 myacor3&amp;gt;=0 时代表小车在全局坐标系上偏右，小车右轮提速，实现左转，并根据 myacor3 的偏转大小来修正占空比的值，等比例增加和衰减让小车运行轨迹更加平稳。反之，当 myacor3&amp;lt;0, 小车在全局坐标系上偏左小车左轮提速，实现右转.&lt;/p&gt;
+&lt;h3 id=&#34;结语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结语&#34;&gt;#&lt;/a&gt; 结语&lt;/h3&gt;
+&lt;p&gt;本文从机械、硬件、软件等方面详细介绍了车模的设计和制作方案。从机械和硬件方面，我们力求电路的稳定可靠，尽量将车模做的轻快灵活，尽可能提高稳定性；在软件方面，我们努力追求最有效的行驶路径，不断优化各方面策略。 智能声音寻迹小车，它是以实现声音路径自主导航，能够实时监测环境温度和湿度并上传到云端。根据声音实时定位，配有两块芯片，具有可控性，声音控制智能小车循迹是该车的一个特色。该装置能够很好的运用于实际智能声音导航中，且使用方便，数据准确，在使用声音定位监测等众多方面都能够发挥重要作用，适合科技创新和实用推广。未来我们将考虑在各种噪音环境下实现更好的滤波，并采取更高效的闭环模式，使声音寻迹小车实用范围更高，灵活性更强。&lt;/p&gt;
+</content>
+        <updated>2024-04-26T09:56:33.000Z</updated>
+    </entry>
+</feed>
