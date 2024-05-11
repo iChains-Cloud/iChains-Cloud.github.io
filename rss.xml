@@ -5,34 +5,85 @@
         <link>https://iChains-Cloud.github.io.git</link>
         <description>欢迎来到倪锦怡的舒卷故事之窗(◎·~·◎)~ 这里你可以阅读我的故事和学习笔记，并提出见解，我们可以相互交流！</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 10 May 2024 10:42:15 +0800</pubDate>
-        <lastBuildDate>Fri, 10 May 2024 10:42:15 +0800</lastBuildDate>
+        <pubDate>Sat, 11 May 2024 12:38:40 +0800</pubDate>
+        <lastBuildDate>Sat, 11 May 2024 12:38:40 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://ichains-cloud.github.io.git/2024/05/11/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</guid>
+            <title>智能家居</title>
+            <link>https://ichains-cloud.github.io.git/2024/05/11/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</link>
+            <pubDate>Sat, 11 May 2024 12:38:40 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;智能家居&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#智能家居&#34;&gt;#&lt;/a&gt; 智能家居&lt;/h1&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt; &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt;(&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	 &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(timeCount % &lt;span class=&#34;number&#34;&gt;40&lt;/span&gt; == &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;)&lt;span class=&#34;comment&#34;&gt;//1000ms / 25 = 40 一秒执行一次&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		DHT11_Read_Data(&amp;amp;humiH,&amp;amp;humiL,&amp;amp;tempH,&amp;amp;tempL);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		UsartPrintf(USART1, &lt;span class=&#34;string&#34;&gt;&amp;quot;温度: %d.%d  湿度:%d.%d&amp;quot;&lt;/span&gt;,tempH,tempL,humiH,humiL);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(!i2c_CheckDevice(BH1750_Addr))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		  Light=LIght_Intensity();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		  UsartPrintf(USART_DEBUG,&lt;span class=&#34;string&#34;&gt;&amp;quot;当前光照度为：%.1f lx\r\n&amp;quot;&lt;/span&gt;,Light);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(++timeCount &amp;gt;= &lt;span class=&#34;number&#34;&gt;200&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			 UsartPrintf(USART_DEBUG,&lt;span class=&#34;string&#34;&gt;&amp;quot;OneNet_Publish\r\n&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			 &lt;span class=&#34;built_in&#34;&gt;sprintf&lt;/span&gt;(PUB_BUF,&lt;span class=&#34;string&#34;&gt;&amp;quot;&amp;#123;\&amp;quot;temp\&amp;quot;:%d.%d,\&amp;quot;Hum\&amp;quot;:%d.%d,\&amp;quot;Light\&amp;quot;:%.1f&amp;#125;&amp;quot;&lt;/span&gt;,tempH,tempL,humiH,humiL,Light);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			OneNet_Publish(&lt;span class=&#34;string&#34;&gt;&amp;quot;/zjsmarthome/pub&amp;quot;&lt;/span&gt;,PUB_BUF);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			 timeCount = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;			 ESP8266_Clear();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		dataPtr = ESP8266_GetIPD(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt;(dataPtr != &lt;span class=&#34;literal&#34;&gt;NULL&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		OneNet_RevPro(dataPtr);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		delay_ms(&lt;span class=&#34;number&#34;&gt;10&lt;/span&gt;);	&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;     &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;我们用的是 esp8266 模块来上传数据到云端&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://ichains-cloud.github.io.git/2024/05/10/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</guid>
             <title>Brief Of Introduction</title>
             <link>https://ichains-cloud.github.io.git/2024/05/10/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</link>
             <pubDate>Fri, 10 May 2024 10:42:15 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;欢迎来到倪锦怡的创客空间！&lt;/p&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;作者倪锦怡&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作者倪锦怡&#34;&gt;#&lt;/a&gt; 作者：倪锦怡&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;欢迎来到倪锦怡的创客空间！&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;个人简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人简介&#34;&gt;#&lt;/a&gt; 个人简介&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/Footprints3.jpg&#34; alt :style=&#34;zoom:25%&#34;&gt;&lt;/p&gt;
-&lt;p&gt;倪锦怡：显露端倪的倪，锦瑟年华的锦，怡颜悦色的怡。&lt;br&gt;
-性别：男&lt;br&gt;
-出生日期：2004 年 8 月 11 日&lt;br&gt;
-籍贯：浙江台州&lt;br&gt;
-星座：狮子座&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/Footprints3.jpg&#34; alt height=&#34;340px&#34; width=&#34;256px&#34; align=&#34;right&#34;&gt;&lt;/p&gt;
+&lt;p&gt;倪锦怡：显露端倪的倪，锦瑟年华的锦，怡颜悦色的怡。&lt;/p&gt;
+&lt;p&gt;性别：男&lt;/p&gt;
+&lt;p&gt;出生日期：2004 年 8 月 11 日&lt;/p&gt;
+&lt;p&gt;籍贯：浙江台州&lt;/p&gt;
+&lt;p&gt;星系：银河系&lt;/p&gt;
+&lt;p&gt;星座：狮子座&lt;/p&gt;
+&lt;p&gt;座右铭：和光同尘与时舒卷&lt;/p&gt;
+&lt;p&gt;特异功能：生病时会长双眼皮&lt;/p&gt;
+&lt;hr&gt;
 &lt;h3 id=&#34;性格&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#性格&#34;&gt;#&lt;/a&gt; 性格&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;i型人格，本人腼腆沉静独立，喜欢在安静的环境下发挥自己的思维能力。适应性强，自信乐观，友好随和，喜欢分享，喜欢陪伴。
 有自己独特的小众爱好，穿衣有自己独特的风格，不会随意模仿他人，喜欢与众不同的感觉。
 性格好，不发脾气，做事耐心，善于倾听，善于安慰他人，本人支持正能量，身边朋友三观都很正。诚实守信，懂得包容和体贴。和好朋友关系很好，友谊长存。能够和大部分性格的人相处。
 &lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/intro.jpg&#34; alt height=&#34;500px&#34; width=&#34;500px&#34; align=&#34;center&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;特长&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特长&#34;&gt;#&lt;/a&gt; 特长&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;喜欢玩滑板，想挑战各种高难度的豚跳，受过小伤，但是依旧享受冒险挑战的过程。喜欢音乐，心情复杂时会和朋友们去KTV，喜欢弹琴但是不是很熟练。剧本杀密室爱好者，喜欢冒险刺激烧脑解谜，喜欢破局的感觉。球类运动：乒乓球，羽毛球，网球，台球，篮球… …喜欢追番看电影，追求丰富的精神世界。喜欢旅游，喜欢享受与大自然亲近的过程 ，平时也喜欢抓拍景色，收集纪念卡片。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$   欢迎一起旅游&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$   cout&amp;lt;&amp;lt;&lt;span class=&#34;string&#34;&gt;&amp;quot;欢迎一起旅游&amp;quot;&lt;/span&gt;&amp;lt;&amp;lt;endl;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h3 id=&#34;专业物联网工程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#专业物联网工程&#34;&gt;#&lt;/a&gt; 专业：物联网工程&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/intro2.jpg&#34; alt height=&#34;574px&#34; width=&#34;432px&#34; align=&#34;center&#34;&gt;&lt;/p&gt;
 &lt;p&gt;学习物联网工程绝非是偶然的，和光同尘，与时舒卷，在这个万物互联的时代，物联网已经成了时代之需，发展之潮。全面建成社会主义现代化强国，进行智能化地发展，物联网工程将是一门分外重要的学科。探索物联网，学习物联网，发展物联网，将是我未来职业生涯的不可或缺的历程。&lt;br&gt;
 对于一位 I 型人格来讲，本人耐心，灵活，乐观将是职业发展的重要优势，选择物联网工程，或许也是一种机遇。物联网工程的特性就是杂，因此想要找到适合自己的突破口，必然少不了规划与探究。因此在职业生涯中，长远的目光和反复的尝试将会是前期的任务重心。物联网工程包含着各种各样的技术，其中软件和硬件的学习和选择都将是未来的挑战&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$  欢迎专业探讨&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;我在新媒体中心的那些事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我在新媒体中心的那些事&#34;&gt;#&lt;/a&gt; 我在新媒体中心的那些事&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/intro3.jpg&#34; alt height=&#34;324px&#34; width=&#34;432px&#34; align=&#34;center&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;述职报告2023年学期末&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#述职报告2023年学期末&#34;&gt;#&lt;/a&gt; 述职报告 ——2023 年学期末&lt;/h4&gt;
+&lt;p&gt;未觉池塘春草梦，阶前梧叶已秋声”，时光飞逝，2023 年已经过去，历史将翻开崭新的一页。在这辞旧迎新来临之际，首先请允许我向一学期辛勤耕耘在各个岗位的教职员工，向积极上进、勤奋学习、勇攀高峰的同学们，致以诚挚的新年祝福！&lt;/p&gt;
+&lt;p&gt;自从我入职以来，在各位老师，书记，主席的带领下，在与各位部长部员的配合下，成功有效地完成这个学期的工作和任务。在此过程中，我严格按照 “励学笃行” 的校训，遵循 “诚信、勤奋、求是、创新” 的校风，积极工作，勤勉履职。现将自己的学习，工作的情况报告如下。&lt;/p&gt;
+&lt;p&gt;本学期，我担任新媒体中心副部长，参加了学院各项重要活动，见证了智控院第一次学生代表大会的圆满召开。我严格积极地完成团委工作，争取高效地完成各项任务。在紧紧围绕学院党政工作思路和整体部署，细化、落实校学生工作部（处）、团委的工作安排，在思想上，认真贯彻落实 “全心全意为学生服务” 的宗旨；在组织上，构架精致而清晰，组织团结而有凝聚力；在宣传上，成功塑造良好的学生干部形象。扎扎实实的工作态度对待每一项任务，每一个挑战，为学院文化的发展和建设贡献了自己的青春和力量。&lt;/p&gt;
+&lt;p&gt;在学业方面，我始终把学习作为重要之事，在老师们的孜孜教诲下，学习知识，在理论和实践中探索知识。我认真地完成了专业课的内容，同时也参加了校级，省级，国家级学科竞赛，并取得良好的成绩。&lt;/p&gt;
+&lt;p&gt;这学期，我学到了很多东西，从不成熟到成熟，从无知到了有知。身为学生干部应当保持与时俱进的精神，注重创新精神，包括工作理念的创新，工作内容的创新，工作方法的创新。在新媒体部我认识了很多智慧可爱的同学，并在每次工作中，明确分工，高效完成目标。我们新媒体是个非常团结热情，积极向上的整体。在我们集体智慧的结晶下，我们顺利的完成了每一项任务，携手力争将工作完成的更加精彩。在本学期的学习和工作下，我发现了一些不足，没有大胆的开拓工作，没有做到持之以恒，在团队工作中，还需要加强配合，存在着许多需要学习和提升的空间。&lt;/p&gt;
+&lt;p&gt;这个学期已经步入尾声，在这段难忘的成长历史中，有艰辛有丰收，我从中学到了很多也收获了很多。让我们携手共进，把新媒体中心变成所有曾为之奋斗并受之恩泽的人心中永远的自豪！最后我希望在下学期的学习和工作中，发挥的更加出色，贡献出自己的力量和智慧。&lt;/p&gt;
+&lt;h4 id=&#34;成就&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成就&#34;&gt;#&lt;/a&gt; 成就：&lt;/h4&gt;
+&lt;p&gt;学期初帮助新生服务  ✓&lt;/p&gt;
+&lt;p&gt;完成任职期间的推文撰写任务 ✓&lt;/p&gt;
+&lt;p&gt;完成各项活动的组织 ✓&lt;/p&gt;
+&lt;p&gt;辅助院学代会的召开 ✓&lt;/p&gt;
+&lt;p&gt;参加院青马班活动 ✓&lt;/p&gt;
+&lt;p&gt;组织运动会活动 ✓&lt;/p&gt;
+&lt;p&gt;... ....&lt;/p&gt;
+&lt;h2 id=&#34;生活足迹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活足迹&#34;&gt;#&lt;/a&gt; 生活足迹&lt;/h2&gt;
+&lt;p&gt;请转至😊&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9uaWppbnlpLm9ubGluZS8yMDI0LzA0LzI2LyVFNyU5NCU5RiVFNiVCNCVCQiVFOCU4NCU5QSVFNSU4RCVCMC8lRTclOTQlOUYlRTYlQjQlQkIlRTglODQlOUElRTUlOEQlQjAv&#34;&gt;生活脚印 | 倪锦怡 = 舒卷故事之窗 = My heart sleeps in the emerald dream (nijinyi.online)&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://ichains-cloud.github.io.git/2024/04/26/%E5%A5%96%E7%8A%B6/%E5%A5%96%E7%8A%B6/</guid>
+            <title>奖状</title>
+            <link>https://ichains-cloud.github.io.git/2024/04/26/%E5%A5%96%E7%8A%B6/%E5%A5%96%E7%8A%B6/</link>
+            <pubDate>Fri, 26 Apr 2024 18:49:10 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;成就墙&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成就墙&#34;&gt;#&lt;/a&gt; 成就墙&lt;/h1&gt;
+&lt;h3 id=&#34;国家级无人车ros竞赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#国家级无人车ros竞赛&#34;&gt;#&lt;/a&gt; 国家级无人车 Ros 竞赛&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/nationros.png&#34; alt=&#34;nationros&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;省奖无人车ros竞赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#省奖无人车ros竞赛&#34;&gt;#&lt;/a&gt; 省奖无人车 Ros 竞赛&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/provinceros.png&#34; alt=&#34;provinceros&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;声音信标智能车竞赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#声音信标智能车竞赛&#34;&gt;#&lt;/a&gt; 声音信标智能车竞赛&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/voice.jpg&#34; alt=&#34;voice&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -43,63 +94,89 @@
             <description><![CDATA[ &lt;h1 id=&#34;生活脚印&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活脚印&#34;&gt;#&lt;/a&gt; 生活脚印&lt;/h1&gt;
 &lt;p&gt;不同世俗的耳语，只看自己喜欢的风景。&lt;/p&gt;
 &lt;h2 id=&#34;精选&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#精选&#34;&gt;#&lt;/a&gt; 精选&lt;/h2&gt;
+&lt;p&gt;在南大的图书馆下面的书店拍的，还盖了纪念章。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/Footprints2.jpg&#34; alt=&#34;Footprints2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;微风轻舞着落叶，&lt;/p&gt;
+&lt;p&gt;云朵在湖面摇曳，&lt;/p&gt;
+&lt;p&gt;感谢秋天，&lt;/p&gt;
+&lt;p&gt;赠予我的一川风月。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/Footprints3.jpg&#34; alt=&#34;Footprints3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;读书的意义大概就是：&lt;/p&gt;
+&lt;p&gt;用生活所感去读书，&lt;/p&gt;
+&lt;p&gt;用读书所得去生活。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/Footprints4.jpg&#34; alt=&#34;Footprints4&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;你知道，有些鸟儿是注定不会被关在牢笼里的，他们的每一片羽毛都闪耀着自由的光辉。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;——《肖生克救赎》&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;You know some birds are not meant to be caged .Their features are just too bright.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;——（The Shawshank Redemption，1994）&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;以下照片均为筛选后的：&lt;/p&gt;
 &lt;h2 id=&#34;浙江&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#浙江&#34;&gt;#&lt;/a&gt; 浙江&lt;/h2&gt;
 &lt;h3 id=&#34;杭州-烟雨江南美如画&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#杭州-烟雨江南美如画&#34;&gt;#&lt;/a&gt; 杭州 -- 烟雨江南美如画&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;总要去趟杭州吧，去吹吹西湖的风，去九溪烟树看看水，去眺望雷峰塔，去断桥看看来来往往的人。感受藏在风里的自由。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当时正好是亚运会的时候，杭州的人超级多，去西湖看灯秀人挤人，不过灯光秀确实很好看很精彩！&lt;/p&gt;
+&lt;p&gt;买了一些亚运会的吉祥物&lt;/p&gt;
+&lt;p&gt;去了东方之门，那也得去看看杭州之门&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hangzhou.jpg&#34; alt=&#34;hangzhou&#34;&gt;&lt;/p&gt;
 &lt;p&gt;琮琮  宸宸 莲莲&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hangzhou2.jpg&#34; alt=&#34;hangzhou2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;去的一个杭州美食街&lt;/p&gt;
+&lt;p&gt;馋死我了&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hangzhou3.jpg&#34; alt=&#34;hangzhou3&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;台州-我的故居&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#台州-我的故居&#34;&gt;#&lt;/a&gt; 台州 -- 我的故居&lt;/h3&gt;
+&lt;p&gt;我在台州市民广场等你们！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/taizhou.jpg&#34; alt=&#34;taizhou&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;重庆-是山城的层次错落还是雾都的醉眼朦胧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#重庆-是山城的层次错落还是雾都的醉眼朦胧&#34;&gt;#&lt;/a&gt; 重庆 -- 是山城的层次错落还是雾都的醉眼朦胧&lt;/h2&gt;
+&lt;p&gt;清晨的时候雾蒙蒙的，所有的景色忽隐忽现！&lt;/p&gt;
+&lt;p&gt;李子坝轻轨穿楼，有幸坐了一次这里的轻轨，是从大楼里面穿过去的&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/congqing3.jpg&#34; alt=&#34;congqing3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;晚上，从这里看洪崖洞真的很美！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/chongqing2.jpg&#34; alt=&#34;chongqing2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;好吃&lt;/p&gt;
+&lt;p&gt;重庆的鸡公煲！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/chongqing4.jpg&#34; alt=&#34;chongqing4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;重庆的火锅，very delicious！&lt;/p&gt;
+&lt;p&gt;在重庆只敢吃微微辣&lt;/p&gt;
+&lt;p&gt;重庆的红油配料我觉得真的很好吃，老板配的&lt;/p&gt;
+&lt;p&gt;一直想自己调一个，一直配不出当时那个味道的配料了&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/chongqing5.jpg&#34; alt=&#34;chongqing5&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;江苏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#江苏&#34;&gt;#&lt;/a&gt; 江苏&lt;/h2&gt;
 &lt;h3 id=&#34;南京&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#南京&#34;&gt;#&lt;/a&gt; 南京&lt;/h3&gt;
+&lt;p&gt;夫子庙&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/fuzimiao.jpg&#34; alt=&#34;fuzimiao&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;苏州&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#苏州&#34;&gt;#&lt;/a&gt; 苏州&lt;/h3&gt;
 &lt;p&gt;浓浓的江南风情！&lt;/p&gt;
+&lt;p&gt;和高中同学一起去的江苏，风景确实很棒，东方之门很壮观！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/suzhou.jpg&#34; alt=&#34;suzhou&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当时还去了寒山寺，就是姑苏城外寒山寺，夜半钟声到客船的寒山寺&lt;/p&gt;
+&lt;p&gt;苏州的动物园也去了，虎丘区的美食街，拙政园，苏州中心广场，淮海街等等&lt;/p&gt;
 &lt;h3 id=&#34;扬州&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#扬州&#34;&gt;#&lt;/a&gt; 扬州&lt;/h3&gt;
 &lt;p&gt;烟花三月下扬州&lt;/p&gt;
+&lt;p&gt;一个很适合闲庭漫步的地方！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/yangzhou.jpg&#34; alt=&#34;yangzhou&#34;&gt;&lt;/p&gt;
 &lt;p&gt;环境真的很好！&lt;/p&gt;
 &lt;h2 id=&#34;安徽&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安徽&#34;&gt;#&lt;/a&gt; 安徽&lt;/h2&gt;
 &lt;h3 id=&#34;合肥&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#合肥&#34;&gt;#&lt;/a&gt; 合肥&lt;/h3&gt;
 &lt;p&gt;生活的秘方就是保持对生活的热爱！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hefei.jpg&#34; alt=&#34;hefei&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当时是秋天&lt;/p&gt;
+&lt;p&gt;秋天的落叶和合柴融合的风景真的很好看&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hefei2.jpg&#34; alt=&#34;hefei2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;抓拍的&lt;/p&gt;
+&lt;p&gt;挺喜欢这种设计的&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/hefei3.jpg&#34; alt=&#34;hefei3&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;上海&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上海&#34;&gt;#&lt;/a&gt; 上海&lt;/h2&gt;
+&lt;p&gt;一直很喜欢上海！&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/shanghai2.jpg&#34; alt=&#34;shanghai2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;总要来趟上海吧&lt;br&gt;
+吹吹黄浦江的晚风🌬，走走武康路&lt;br&gt;
+看看东方明珠🗼，感受一下魔都的繁华🌃&lt;/p&gt;
+&lt;p&gt;2024.5.1~5.6&lt;/p&gt;
+&lt;p&gt;表妹高考时一起合影的&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/shanghai.jpg&#34; alt=&#34;shanghai&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当时天空真的很好看&lt;/p&gt;
+&lt;p&gt;很多人在公园里放风筝&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/shanghai3.jpg&#34; alt=&#34;shanghai3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;**生活如果有开关，那和朋友见面就是一键快乐！**&lt;/code&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://ichains-cloud.github.io.git/2024/04/26/%E5%A5%96%E7%8A%B6/%E5%A5%96%E7%8A%B6/</guid>
-            <title>奖状</title>
-            <link>https://ichains-cloud.github.io.git/2024/04/26/%E5%A5%96%E7%8A%B6/%E5%A5%96%E7%8A%B6/</link>
-            <pubDate>Fri, 26 Apr 2024 18:49:10 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;成就墙&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成就墙&#34;&gt;#&lt;/a&gt; 成就墙&lt;/h1&gt;
-&lt;h3 id=&#34;校电子设计大赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#校电子设计大赛&#34;&gt;#&lt;/a&gt; 校电子设计大赛&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/ElectronicDesign.jpg&#34; alt=&#34;ElectronicDesign&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;国家级无人车ros竞赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#国家级无人车ros竞赛&#34;&gt;#&lt;/a&gt; 国家级无人车 Ros 竞赛&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/nationros.png&#34; alt=&#34;nationros&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;省奖无人车ros竞赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#省奖无人车ros竞赛&#34;&gt;#&lt;/a&gt; 省奖无人车 Ros 竞赛&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/provinceros.png&#34; alt=&#34;provinceros&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;声音信标智能车竞赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#声音信标智能车竞赛&#34;&gt;#&lt;/a&gt; 声音信标智能车竞赛&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;/images/voice.jpg&#34; alt=&#34;voice&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
