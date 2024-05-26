@@ -2946,6 +2946,12 @@ main >.inner {
 .social .item.email i {
   color: #55acd5;
 }
+.social .item.zhihu::before {
+  background-color: #1e88e5;
+}
+.social .item.zhihu i {
+  color: #1e88e5;
+}
 .social .item.music::before {
   background-color: #e60026;
 }
